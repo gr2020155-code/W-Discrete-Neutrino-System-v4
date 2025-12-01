@@ -60,6 +60,11 @@ W_neutrino_search_v4.ps1 (full reproducible script)
 Run in PowerShell:
 
 powershell -ExecutionPolicy Bypass -File .\W_neutrino_search_v4.ps1
+## Verification Hash (SHA-256)
+
+W-Discrete-Neutrino-System-v4.zip  
+SHA-256: 7febbc56d47f07674ccce16f01426a65200d60ef0427ec88acff42176f2f184a
+
 
 ## Author
 Hrachya Danielyan
